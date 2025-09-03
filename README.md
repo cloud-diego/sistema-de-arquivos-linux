@@ -7,7 +7,7 @@ Este projeto contém a documentação do meu laboratório prático em uma instâ
 📂 **Estrutura do Projeto**
 
 ```
-gerenciamento-usuarios-linux/
+sistema-de-arquivos-linux/
 │
 ├── imagens/
 │
