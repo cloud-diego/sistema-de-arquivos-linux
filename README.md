@@ -19,13 +19,6 @@ Este projeto contém a documentação do meu laboratório prático em uma instâ
 
 -----
 
-## **🏗️ Arquitetura do Sistema de Arquivos**
-
-<img width="866" height="651" alt="arquiteturadearquivos" src="https://github.com/user-attachments/assets/b29775d6-66ca-4d1d-9882-6fa8be278732" />
-
-
------
-
 ## **🚀 Ambiente**
 
   * **Serviço**: Amazon EC2
@@ -50,6 +43,12 @@ Este projeto contém a documentação do meu laboratório prático em uma instâ
 
 
 ### **2. Criando a Estrutura de Pastas**
+
+## **🏗️ Arquitetura do Sistema de Arquivos**
+
+<img width="866" height="651" alt="arquiteturadearquivos" src="https://github.com/user-attachments/assets/b29775d6-66ca-4d1d-9882-6fa8be278732" />
+
+-----
 
 Reconstruí a estrutura de diretórios e arquivos da empresa `CompanyA` usando os comandos `mkdir` e `touch`.
 
