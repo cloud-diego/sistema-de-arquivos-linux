@@ -116,7 +116,7 @@ Reconstruí a estrutura de diretórios e arquivos da empresa `CompanyA` usando o
 <img width="796" height="752" alt="arquiteturareorganizada" src="https://github.com/user-attachments/assets/d9206b2c-2787-4b4c-ad82-052cf02e4756" />
 
 
-Fui encarregado de reorganizar a estrutura, o que me forçou a usar comandos mais avançados de cópia, movimento e deleção.
+Fui encarregado de reorganizar a estrutura, o que me forçou a usar comandos mais avançados de cópia, movimentação e apagamento.
 
   * **Copiei a pasta `Finance` para dentro de `HR`**:
 
