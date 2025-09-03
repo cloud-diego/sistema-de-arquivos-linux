@@ -2,13 +2,17 @@
 
 Este projeto contém a documentação do meu laboratório prático em uma instância **Amazon Linux EC2**, focado na manipulação do sistema de arquivos. O objetivo foi criar, copiar, mover e deletar arquivos e diretórios, consolidando o uso de comandos essenciais do terminal.
 
+
 -----
+
 
 ### **🛠️ Tecnologias Utilizadas**
 
 <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 
+
 -----
+
 
 ## **🎯 Objetivos**
 
@@ -17,7 +21,9 @@ Este projeto contém a documentação do meu laboratório prático em uma instâ
   * Copiar e mover arquivos e diretórios.
   * Remover arquivos e diretórios.
 
+
 -----
+
 
 ## **🚀 Ambiente**
 
@@ -26,7 +32,9 @@ Este projeto contém a documentação do meu laboratório prático em uma instâ
   * **Sistema Operacional**: Amazon Linux 2
   * **Acesso**: SSH (via `.pem` ou `.ppk`)
 
+
 -----
+
 
 ## **📌 Etapas do Laboratório**
 
