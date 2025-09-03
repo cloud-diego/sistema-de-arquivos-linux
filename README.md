@@ -2,6 +2,17 @@
 
 Este projeto contém a documentação do meu laboratório prático em uma instância **Amazon Linux EC2**, focado na manipulação do sistema de arquivos. O objetivo foi criar, copiar, mover e deletar arquivos e diretórios, consolidando o uso de comandos essenciais do terminal.
 
+-----
+
+📂 **Estrutura do Projeto**
+
+```
+gerenciamento-usuarios-linux/
+│
+├── imagens/
+│
+└── README.md
+```
 
 -----
 
